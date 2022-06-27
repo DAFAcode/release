@@ -1,2 +1,2 @@
 # release
-We will release our code soon.
+Code for our paper.
